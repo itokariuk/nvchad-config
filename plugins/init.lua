@@ -38,7 +38,7 @@ local plugins = {
   },
 
   -- Remove Mason
-  -- ["williamboman/mason.nvim"] = false,
+  ["williamboman/mason.nvim"] = false,
 }
 
 return plugins
