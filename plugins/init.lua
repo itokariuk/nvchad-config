@@ -1,7 +1,6 @@
 local overrides = require "custom.plugins.overrides"
 ---@type {[PluginName]: PluginConfig|false}
 local plugins = {
-
   -- Enable dashboard
   ["goolord/alpha-nvim"] = {
     disable = false
@@ -20,11 +19,12 @@ local plugins = {
     end,
   },
 
-  -- Overrde plugin configs
+  -- Override plugin configs
   ["nvim-treesitter/nvim-treesitter"] = {
     override_options = overrides.treesitter,
   },
 
+  -- Override nvim-tree configs
   ["nvim-tree/nvim-tree.lua"] = {
     override_options = overrides.nvimtree,
   },

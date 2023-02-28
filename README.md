@@ -20,13 +20,22 @@
 npm install pyright
 pip install flask8 mypy black
 ```
+
+```bash
+# Не обов'язкові доповнення для Flask8:
+pip install pep8-naming
+pip install flake8-variables-names
+pip install flake8-import-order
+pip install flake8-builtins
+pip install flake8-bugbear
+```
 Та саму конфігурацію:
 
 ```bash
 git clone https://github.com/itokariuk/nvchad-config ~/.config/nvim/lua/custom
 nvim +PackerSync
 ```
-_(Примітка: переконайтеся що ви НЕ використовуєте кастомний конфіг NvChad)_
+_(Примітка: переконайтеся що ви НЕ використовуєте кастомний конфіг для NvChad)_
 
 Насолоджуйтеся ;)
 
