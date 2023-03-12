@@ -17,8 +17,8 @@
 Вже після цього встановіть залежності для моєї конфігурації:
 
 ```bash
-npm install pyright
-pip install flask8 mypy black
+npm install -g pyright
+pip install flake8 mypy black
 ```
 
 ```bash
@@ -35,7 +35,7 @@ pip install flake8-bugbear
 git clone https://github.com/itokariuk/nvchad-config ~/.config/nvim/lua/custom
 nvim +PackerSync
 ```
-_(Примітка: переконайтеся що ви НЕ використовуєте кастомний конфіг для NvChad)_
+_(Примітка: переконайтеся що ви ще НЕ використовуєте кастомний конфіг для NvChad)_
 
 Насолоджуйтеся ;)
 
