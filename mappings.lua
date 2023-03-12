@@ -11,7 +11,7 @@ M.general = {
   },
 
   n = {
-    [";"] = { ":", "enter command mode" },
+    [";"] = { ":", "enter command mode", opts = { nowait = true } },
   },
 }
 

@@ -2,8 +2,6 @@
 
 ---
 
-[![Support Ukraine](https://badgen.net/badge/stand%20with/UKRAINE/?color=0057B8&labelColor=FFD700)](https://savelife.in.ua/)
-
 ![NeoVim](https://img.shields.io/badge/NeoVim-0.8.3-blue?style=flat-square&logo=Neovim)
 ![NvChad](https://img.shields.io/badge/NvChad-1.0-blue?style=flat-square&logo=iTerm2)
 
