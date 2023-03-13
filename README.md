@@ -3,7 +3,7 @@
 ---
 
 ![Neovim](https://img.shields.io/badge/Neovim-0.8.3-blue?style=flat-square&logo=Neovim)
-![NvChad](https://img.shields.io/badge/NvChad-1.0-blue?style=flat-square&logo=iTerm2)
+![NvChad](https://img.shields.io/badge/NvChad-1.0-blue?style=flat-square&logo=gnu-bash)
 
 Моя конфігурація, яку я налаштовував переважно для Python. Вона використовує LSP сервер Pyright, лінтер Flake8, статичний аналізатор MyPy та формартер Black. Також тут вимкненний Mason, який встановленний в NvChad по дефолту. Це дещо ускладнить встановлення нових LSP, лінтерів чи формартерів, але дасть більше можливостей та прискорить роботу редактора.
 
