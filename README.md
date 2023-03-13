@@ -47,8 +47,6 @@ rm -rf ~/.config/nvim/lua/custom/
 
 Як видалити самий NvChad, для повернення Neovim до "заводських" налаштувань, можете почитати в його [офіційній документації](https://nvchad.com/quickstart/install#uninstall)
 
-
 ---
 
-
-![[Mono](https://img.shields.io/badge/Підтримай-копійкою-blue?style=flat-square&logo=gnu-bash)](https://send.monobank.ua/jar/4qQYWZQvK3)
+[![Mono](https://img.shields.io/badge/Підтримай-копійкою-blue?style=flat-square&logo=gnu-bash)](https://send.monobank.ua/jar/4qQYWZQvK3)
